@@ -47,11 +47,4 @@ This project consists of:
    npm start
    ```
 
-## Demo
-Provide a hosted link if available.
-
-```
-----
-```
-
 Thanks, Regards 
