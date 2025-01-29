@@ -1,3 +1,4 @@
+```md
 # Interview Task Project
 
 ## Overview
@@ -7,27 +8,50 @@ This project consists of:
 
 ## Setup Instructions
 ### Backend (Laravel)
-
 1. Navigate to the `backend` folder:  
    ```bash
    cd backend
-  Install dependencies:
-      composer install
-  Configure environment file:
-      cp .env.example .env
-  Generate application key:
-      php artisan key:generate
-  Run migrations:
-      php artisan migrate
-  Start the Laravel server:
-      php artisan serve
+   ```
+2. Install dependencies:  
+   ```bash
+   composer install
+   ```
+3. Configure environment file:  
+   ```bash
+   cp .env.example .env
+   ```
+4. Generate application key:  
+   ```bash
+   php artisan key:generate
+   ```
+5. Run migrations:  
+   ```bash
+   php artisan migrate
+   ```
+6. Start the Laravel server:  
+   ```bash
+   php artisan serve
+   ```
 
-2. Frontend (React)
-  Navigate to the frontend folder:
-      cd frontend
-  Install dependencies:
-      npm install
-  Start the development server:
-      npm start
+### Frontend (React)
+1. Navigate to the `frontend` folder:  
+   ```bash
+   cd frontend
+   ```
+2. Install dependencies:  
+   ```bash
+   npm install
+   ```
+3. Start the development server:  
+   ```bash
+   npm start
+   ```
 
-Regards.
+## Demo
+Provide a hosted link if available.
+
+```
+----
+```
+
+Thanks, Regards 
